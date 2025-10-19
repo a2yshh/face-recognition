@@ -5,7 +5,7 @@ The system identifies faces, displays their **name**, **dominant emotion (happy,
 
 ---
 
-## 🚀 Features
+## Features
 - Detects faces using `OpenCV`
 - Recognizes known individuals using `face_recognition`
 - Analyzes emotions using `DeepFace`
@@ -17,14 +17,14 @@ The system identifies faces, displays their **name**, **dominant emotion (happy,
 
 ---
 
-## 🧠 Tech Stack
-- **Python 3.x**
+## Tech Stack
+- **Python**
 - **OpenCV**
 - **DeepFace**
 - **face_recognition**
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/a2yshh/face-recognition.git
